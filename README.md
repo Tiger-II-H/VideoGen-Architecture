@@ -32,4 +32,3 @@ https://ibb.co/8DkPcyJ7
 Присоединяйтесь к разработке!
 
 ## Проблема:
-![image](https://github.com/user-attachments/assets/1ebb9d5e-28a5-4814-befa-61df6d371e9f)
